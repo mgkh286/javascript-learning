@@ -1,5 +1,7 @@
 # javascript-learning
 
+## live site :https://mgkh286.github.io/javascript-learning/
+
 ####learning strings and variables
 ##numbers or boolean
 
